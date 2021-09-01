@@ -1,0 +1,20 @@
+body{
+background-color: #EAF6F6;
+}
+hr{
+  border-style: none;
+  border-bottom-style: dotted;
+  border-color: #4CA1A3;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+}
+h1,th{
+  color: #222831;
+}
+h3,form{
+  color: #00ADB5;
+}
+p,li,td{
+  color: #393E46;
+}
