@@ -9,6 +9,9 @@ hr{
   height: 0px;
   width: 5%;
 }
+table.table1{
+width: 50%;
+}
 h1,th{
   color: #222831;
 }
